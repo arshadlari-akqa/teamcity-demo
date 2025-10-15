@@ -15,7 +15,7 @@ function App() {
               <a href="#features">Features</a>
               <a href="#about">About</a>
               <a href="#contact">Contact</a>
-              <button className="btn-primary">Get Started</button>
+              <button className="btn-primary">start here</button>
             </nav>
           </div>
         </div>
