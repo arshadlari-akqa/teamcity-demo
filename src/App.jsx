@@ -9,7 +9,7 @@ function App() {
           <div className="nav">
             <div className="logo">
               <span className="logo-icon">⚡</span>
-              <span className="logo-text">TeamCity Demo</span>
+              <span className="logo-text">TeamCity Walkthrough</span>
             </div>
             <nav className="nav-links">
               <a href="#features">Features</a>
