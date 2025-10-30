@@ -26,8 +26,7 @@ function App() {
         <div className="container">
           <div className="hero-content">
             <h1 className="hero-title">
-              {/* Build, Test, and Deploy with */}
-              Updated hero title
+              Build, Test, and Deploy with
               <span className="gradient-text"> Confidence</span>
             </h1>
             <p className="hero-subtitle">
